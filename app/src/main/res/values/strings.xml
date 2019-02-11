@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PocCameraToImageView</string>
+    <string name="btn_get_picture">Get Picture</string>
+    <string name="image_view_content">A camera\'s image</string>
+</resources>
